@@ -1,0 +1,8 @@
+number := VI
+second_number :=X
+
+case number of
+    V: result := V ;
+    X - V : result:= second_number; ~ V + X
+    X : III;
+end
